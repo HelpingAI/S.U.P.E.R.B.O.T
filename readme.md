@@ -57,8 +57,17 @@ S.U.P.E.R.B.O.T stands for **Super Utility Providing Enhanced Robustness Beyond 
 47. **Alarm** ⏰ - Set alarms for reminders with SuperBot.
 48. **ChatGPT** 💬 - Interact with ChatGPT for natural language understanding.
 49. **H2O GPT** 💡 - Utilize H2O GPT for advanced language tasks.
-50. **Background Remover** 🌅 - Remove backgrounds from images with SuperBot.
+50.
+
+ **Background Remover** 🌅 - Remove backgrounds from images with SuperBot.
 51. **Camera** 📷 - Access and use the computer's camera with SuperBot.
+52. **Timer** ⏳ - Set and manage timers effortlessly with SuperBot.
+53. **Media Player** 🎵 - Play multimedia files with the integrated media player.
+54. **Ping Pong** 🏓 - Enjoy a classic game of Ping Pong within SuperBot.
+55. **Device Care** 🛠️ - Optimize and monitor system resources for better performance.
+56. **Car Game** 🚗 - Experience a thrilling car game within SuperBot.
+57. **Spelling Bee** 🐝 - Test and enhance your spelling skills with SuperBot.
+58. **System Resource Monitor** 📊 - Keep track of system resources for efficient usage.
 
 ## Open PC Apps 🖥️
 
@@ -69,9 +78,7 @@ S.U.P.E.R.B.O.T stands for **Super Utility Providing Enhanced Robustness Beyond 
 
 ## Security 🔒
 
-SuperBot prioritizes your privacy and data security. No user data is shared with
-
- anyone, ensuring a secure and private user experience.
+SuperBot prioritizes your privacy and data security. No user data is shared with anyone, ensuring a secure and private user experience.
 
 ## Updates 🚀
 
