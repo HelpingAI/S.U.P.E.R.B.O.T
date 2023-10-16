@@ -57,9 +57,7 @@ S.U.P.E.R.B.O.T stands for **Super Utility Providing Enhanced Robustness Beyond 
 47. **Alarm** ⏰ - Set alarms for reminders with SuperBot.
 48. **ChatGPT** 💬 - Interact with ChatGPT for natural language understanding.
 49. **H2O GPT** 💡 - Utilize H2O GPT for advanced language tasks.
-50.
-
- **Background Remover** 🌅 - Remove backgrounds from images with SuperBot.
+50.  **Background Remover** 🌅 - Remove backgrounds from images with SuperBot.
 51. **Camera** 📷 - Access and use the computer's camera with SuperBot.
 52. **Timer** ⏳ - Set and manage timers effortlessly with SuperBot.
 53. **Media Player** 🎵 - Play multimedia files with the integrated media player.
